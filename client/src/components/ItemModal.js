@@ -56,7 +56,7 @@ class ItemModal extends Component {
                 color="dark"
                 style={{marginBottom: '2rem'}}
                 onClick={this.toggle}
-               >Add Item</Button> : <h4 className="mb-3 ml-4">Log in to manage cart</h4>}
+               >Add Item</Button> : <h4 className="mb-3 ml-4">Please Log in to manage items</h4>}
 
                 
                 <Modal
